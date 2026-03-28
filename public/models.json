@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Advanced conversational AI by OpenAI.\nSupports text generation, coding, and creative tasks.",
+    "price": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Midjourney",
+    "description": "AI image generation from natural language prompts.\nKnown for artistic and highly detailed visuals.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
+    "status": "favourite"
+  },
+  {
+    "id": 3,
+    "title": "Runway ML",
+    "description": "Creative AI suite for video, image, and audio.\nUsed by filmmakers and designers for real-time editing.",
+    "price": 15,
+    "image": "https://docubase.mit.edu/wp-content/uploads/2020/04/runway-logo-420x420.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 4,
+    "title": "Perplexity AI",
+    "description": "AI-powered answer engine with citations.\nCombines search and conversational AI for accurate responses.",
+    "price": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xxA9AbhRvtw3NkNd6IAzH90RMA8yRHuQAQ&s",
+    "status": "popular"
+  },
+  {
+    "id": 5,
+    "title": "Leonardo.ai",
+    "description": "Generative AI for game assets and concept art.\nOffers fine-tuned models and real-time generation.",
+    "price": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHOBsh9yxwSq6J01sbaQUzhNzVstqEwyIIQ&s",
+    "status": "favourite"
+  },
+  {
+    "id": 6,
+    "title": "GitHub Copilot",
+    "description": "AI pair programmer for code completion.\nIntegrates with IDEs to speed up development.",
+    "price": 10,
+    "image": "https://img.icons8.com/fluent/1200/github-copilot.jpg",
+    "status": "mostwanted"
+  },
+  {
+    "id": 7,
+    "title": "Claude",
+    "description": "Safe and helpful AI assistant by Anthropic.\nFocuses on nuanced reasoning and long context tasks.",
+    "price": 20,
+    "image": "https://img.icons8.com/3d-fluency/1200/3d-claude-ai-logo.jpg",
+    "status": "popular"
+  },
+  {
+    "id": 8,
+    "title": "Krisp",
+    "description": "AI noise cancellation for meetings and calls.\nRemoves background noise in real-time across apps.",
+    "price": 8,
+    "image": "https://help.krisp.ai/hc/article_attachments/4529355804444",
+    "status": "favourite"
+  },
+  {
+    "id": 9,
+    "title": "Otter.ai",
+    "description": "Automated meeting notes and transcription.\nGenerates summaries and action items from conversations.",
+    "price": 16.99,
+    "image": "https://img.icons8.com/fluent/1200/otter-ai.jpg",
+    "status": "mostwanted"
+  },
+  {
+    "id": 10,
+    "title": "Gamma",
+    "description": "AI-powered presentation and document tool.\nCreates visually appealing decks from simple prompts.",
+    "price": 10,
+    "image": "https://store-images.s-microsoft.com/image/apps.53673.13800228740496758.b926c1b0-f31a-4a9b-b1b3-88dd15f27137.a0a38389-643f-48ed-9379-92a9fb5a7c94",
+    "status": "popular"
+  },
+  {
+    "id": 11,
+    "title": "Synthesia",
+    "description": "AI video generation with realistic avatars.\nCreates professional videos from text in minutes.",
+    "price": 22,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-SNGlLi49vxVvuilR2vr9jcL4FD6Rr3dVw&s",
+    "status": "favourite"
+  },
+  {
+    "id": 12,
+    "title": "Hugging Face",
+    "description": "Open-source AI model hub and community.\nProvides tools for training and deploying ML models.",
+    "price": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHc3LEYy9t1hlr-9kUbZ6_hJpu0J4Qyslug&s",
+    "status": "popular"
+  },
+  {
+    "id": 13,
+    "title": "Notion AI",
+    "description": "AI assistant integrated into Notion workspace.\nHelps with writing, summarizing, and organizing notes.",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 14,
+    "title": "Canva Magic Studio",
+    "description": "AI design tools within Canva.\nGenerates templates, images, and copy for creators.",
+    "price": 12.99,
+    "image": "https://static1.squarespace.com/static/6395213c2080b569593790e4/63b84a0b8b18c04e04af677c/6534080311e65b7d37fa6eb1/1699556796055/canva-logo.png?format=1500w",
+    "status": "favourite"
+  },
+  {
+    "id": 15,
+    "title": "Stable Diffusion",
+    "description": "Open-source text-to-image model.\nRuns locally or via cloud for high-quality image generation.",
+    "price": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9ujE13EG_PtMPNqmNE30FQ8G-Ho-ke2Uww&s",
+    "status": "popular"
+  },
+  {
+    "id": 16,
+    "title": "Grammarly",
+    "description": "AI writing assistant for grammar and style.\nImproves clarity and tone across emails and documents.",
+    "price": 12,
+    "image": "https://i0.wp.com/www.nenow.in/wp-content/uploads/2025/03/png-clipart-grammarly-icon-logo-social-media-icons.png?fit=900%2C667&ssl=1",
+    "status": "mostwanted"
+  },
+  {
+    "id": 17,
+    "title": "Tome",
+    "description": "AI-powered storytelling and presentation tool.\nGenerates narratives and visual layouts instantly.",
+    "price": 16,
+    "image": "https://cdn-icons-png.flaticon.com/512/5246/5246299.png",
+    "status": "favourite"
+  },
+  {
+    "id": 18,
+    "title": "Replicate",
+    "description": "Cloud platform for running AI models.\nAllows developers to deploy and scale ML models easily.",
+    "price": 0,
+    "image": "https://avatars.githubusercontent.com/u/60410876?s=280&v=4",
+    "status": "popular"
+  },
+  {
+    "id": 19,
+    "title": "Fireflies.ai",
+    "description": "AI meeting assistant for transcription and insights.\nRecords, transcribes, and analyzes conversations.",
+    "price": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt4s4zH41DnCV7GfbcS3EZAirCdDkE1QCd9w&s",
+    "status": "mostwanted"
+  },
+  {
+    "id": 20,
+    "title": "Jasper",
+    "description": "AI content generator for marketing teams.\nCreates blogs, ads, and social media copy at scale.",
+    "price": 39,
+    "image": "https://img.icons8.com/fluent/1200/jasper-ai.jpg",
+    "status": "favourite"
+  },
+  {
+    "id": 21,
+    "title": "CodiumAI",
+    "description": "AI-powered code testing and review.\nGenerates meaningful tests and suggests improvements.",
+    "price": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4zZUF8zo3MZt5QXIvImmN0aIC4eRDl_sVg&s",
+    "status": "popular"
+  },
+  {
+    "id": 22,
+    "title": "Beautiful.ai",
+    "description": "AI presentation software with smart templates.\nAutomatically formats slides as you add content.",
+    "price": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuegkbNcpmQc32_tHYYFQlB-fYnE_HEcRwdg&s",
+    "status": "mostwanted"
+  },
+  {
+    "id": 23,
+    "title": "DeepL",
+    "description": "Advanced AI translation with context awareness.\nDelivers natural and accurate translations across languages.",
+    "price": 8.74,
+    "image": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/deepl-color.png",
+    "status": "popular"
+  },
+  {
+    "id": 24,
+    "title": "ElevenLabs",
+    "description": "AI voice synthesis with realistic emotions.\nGenerates natural-sounding speech for content creators.",
+    "price": 22,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoZrnR12rkFRGdfWNLDFofE2eKIS8Urj38A&s",
+    "status": "favourite"
+  },
+  {
+    "id": 25,
+    "title": "Copy.ai",
+    "description": "AI copywriting tool for marketing teams.\nGenerates high-quality content for blogs and ads.",
+    "price": 36,
+    "image": "https://zorgle.co.uk/wp-content/uploads/2024/11/Copy-ai-logo.png",
+    "status": "mostwanted"
+  }
+]

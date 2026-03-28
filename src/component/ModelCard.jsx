@@ -21,7 +21,7 @@ if(isFound){
       <figure className="bg-zinc-100 rounded-md p-5">
         <img
           src={model.image}
-          className="object-contain h-40 w-40 rounded-full"
+          className="object-contain h-40 w-40 p-4 rounded-full"
           alt="Shoes"
         />
       </figure>

@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { Suspense, useState } from 'react'
 
 import './App.css'
 import NavBar from './component/NavBar'
@@ -16,10 +16,10 @@ const getModels=async ()=>{
         console.log(e)
     }
 }
-const models=getModels();
+
 
 function App() {
-
+const models=getModels();
 const [tab,setTab]=useState("models")
 const [cart,setCart]=useState([])
   return (
@@ -27,8 +27,10 @@ const [cart,setCart]=useState([])
     <NavBar></NavBar>
     <Banner></Banner>
     <Tabs  setTab={setTab} cart={cart} ></Tabs>
-   {tab==="models" && <Models models={models} cart={cart} setCart={setCart}></Models> ||<Cart cart={cart} setCart={setCart}></Cart>}
+   <Suspense fallback={<div className='text-center flex justify-center items-center py-32'><span className="loading loading-spinner text-neutral text-9xl text-center py-[100px] flex flex-col justify-center items-center"></span></div>}>
+    {tab==="models" && <Models models={models} cart={cart} setCart={setCart}></Models> ||<Cart cart={cart} setCart={setCart}></Cart>}
 
+   </Suspense>
     <Footer></Footer>
 
 <ToastContainer />
